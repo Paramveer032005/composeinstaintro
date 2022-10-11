@@ -64,7 +64,7 @@ fun Introduction() {
             Text(text = "Functionalities and Concepts used : \n" +
                     "Required os : Android 5.0 and up, scrollable feature in both stories and posts with working navigation icons and a search feature with history \n")
 
-            Text(text = "Application Link :")
+            Text(text = "Application Link :https://github.com/Paramveer032005/composeinsta")
         }
     }
 
